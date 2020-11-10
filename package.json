@@ -4,10 +4,6 @@
   "version": "0.6.1",
   "license": "MIT",
   "main": "lib/index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/matteodelabre/saxophone.git"
-  },
   "scripts": {
     "lint": "eslint .",
     "tape": "tape 'lib/**/*.test.js'",
